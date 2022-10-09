@@ -3,7 +3,7 @@ Tracking system known as SimpleLife developed for a Master Thesis written by Bru
 
 Title: General-Purpose Model-Free Object Tracking with 3D LiDAR
 
-This repository contains the code for the SimpleLife 3D MOT tracking system. The second tracking system developed for this thesis can be found at [https://github.com/BrunoComCue/MasterThesis_mmTracker.git](mmTracker).
+This repository contains the code for the SimpleLife 3D MOT tracking system. The second tracking system developed for this thesis can be found at [mmTracker](https://github.com/BrunoComCue/MasterThesis_mmTracker.git).
 
 Most of the base code and structure are heavily based on the [SimpleTrack](https://github.com/tusen-ai/SimpleTrack.git) work, so the documentation can be found there
 
