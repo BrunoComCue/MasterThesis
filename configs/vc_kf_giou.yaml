@@ -1,9 +1,7 @@
 running:
   covariance: default
   score_threshold: 0.6
-  max_age_since_update: 30
-  #min_hits_to_birth: 3
-  trk_deletion_threshold: 0.0
+  max_age_since_update: 15
   match_type: bipartite
   asso: giou
   has_velo: false
