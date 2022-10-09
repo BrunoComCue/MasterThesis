@@ -3,6 +3,7 @@ Tracking system known as SimpleLife developed for a Master Thesis written by Bru
 
 Title: General-Purpose Model-Free Object Tracking with 3D LiDAR
 
+The main branch is used for the SimpleLife 3D MOT tracking system, and the dev branch is for the mmTracker.
 
 Most of the base code and structure are heavily based on the [SimpleTrack](https://github.com/tusen-ai/SimpleTrack.git) work, so the documentation can be found there
 
