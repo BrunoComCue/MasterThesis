@@ -28,8 +28,6 @@ def pb2dict(obj):
     Takes a ProtoBuf Message obj and convertes it to a dict.
     """
     adict = {}
-    # if not obj.IsInitialized():
-    #     return None
     for field in obj.DESCRIPTOR.fields:
         if not getattr(obj, field.name):
             continue
