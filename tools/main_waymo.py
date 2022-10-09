@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--name', type=str, default='debug')
 parser.add_argument('--det_name', type=str, default='public')
 parser.add_argument('--process', type=int, default=1)
-parser.add_argument('--visualize', action='store_true', default=True)
+parser.add_argument('--visualize', action='store_true', default=False)
 parser.add_argument('--start_frame', type=int, default=0, help='start at a middle frame for debug')
 parser.add_argument('--obj_type', type=str, default='vehicle', choices=['vehicle', 'pedestrian', 'cyclist'])
 # paths
